@@ -20,7 +20,7 @@ To get started with the HR Recruitment Database Management System, follow these 
 5. Configure any environment variables or settings required for the database connection.
 6. Build and run the application using the SQL queries and commands provided in the project.
 
-Please refer to the detailed documentation and report for more information on setup, usage, and project insights.
+Please refer to the [detailed design report](https://github.com/WangXiaoShawn/RecruitPro/blob/main/CSE581FinalProject1.3.pdf) included in this repository for more information on setup, usage, and project insights.
 
 ## Entity-Relationship Diagram
 
