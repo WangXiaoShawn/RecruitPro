@@ -36,9 +36,7 @@ For a comprehensive understanding of the database design and implementation, ple
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
 
-[Specify the license under which the project is released.]
 
 
 
