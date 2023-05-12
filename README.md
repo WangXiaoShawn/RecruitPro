@@ -24,7 +24,7 @@ Please refer to the detailed documentation and report for more information on se
 
 ## Detailed Design Report
 
-For a comprehensive understanding of the database design and implementation, please refer to the [detailed design report](design_report.pdf) included in this repository. The report covers various aspects of the project, including design considerations, normalization, entity-relationship diagram, schema details, and more.
+For a comprehensive understanding of the database design and implementation, please refer to the [detailed design report](https://github.com/WangXiaoShawn/RecruitPro/blob/main/CSE581FinalProject1.3.pdf) included in this repository. The report covers various aspects of the project, including design considerations, normalization, entity-relationship diagram, schema details, and more.
 
 ## Contributing
 
