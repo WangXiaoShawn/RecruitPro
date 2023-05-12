@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="your-logo.png" alt="Project Logo" width="200">
-</div>
+
 
 # HR Recruitment Database Management System
 
