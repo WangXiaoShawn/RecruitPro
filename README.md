@@ -24,7 +24,7 @@ Please refer to the detailed documentation and report for more information on se
 
 ## Entity-Relationship Diagram
 
-![Entity-Relationship Diagram]()
+![Entity-Relationship Diagram](https://github.com/WangXiaoShawn/RecruitPro/blob/main/Final.png)
 
 For a visual representation of the overall database design, please refer to the entity-relationship diagram (ERD) included in this repository. The ERD provides a detailed overview of the tables, relationships, and attributes used in the HR Recruitment Database Management System.
 
